@@ -10,4 +10,4 @@ Step 5: Initialize streamlit to take input text from user and disply the data wh
 
 Ouput:\n\n
 
-(https://github.com/pneel27/SQLGen/blob/main/Screenshot%20(159).png?raw=true)
+![Alt text](https://github.com/pneel27/SQLGen/blob/main/Screenshot%20(159).png?raw=true "SampleOutput")
