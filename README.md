@@ -1,4 +1,4 @@
-Text To SQL Converter\n
+Text To SQL Converter/n
 Utilized Gemini Pro Model that convert the entered text to SQL Query and fetch the data from SQLLite DB.\n\n
 
 Implementation Steps:\n
